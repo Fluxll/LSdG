@@ -1,0 +1,1 @@
+<!-- faire dses image cliquable comme par exemple une image global avec nos tracteur le batiment et autre et quands on clique sur tekl ou tel tracxteur ca nous emenne vers new homlande qui explique sojn tracteur -->
